@@ -1,0 +1,12 @@
+Package: gnome-shell-kali+re4son
+Version: 1.0-1
+Architecture: all
+Maintainer: Re4son Protagonist <re4son@whitedome.com.au>
+Installed-Size: 428
+Depends: gnome-shell-common
+Section: admin
+Priority: optional
+Homepage: https://www.whitedome.com.au/re4son/
+Description: Kali Linux gdm background picture
+ This package contains the theme resources file to restore
+ the Kali Linux background for the login screen
